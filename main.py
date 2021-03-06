@@ -52,3 +52,4 @@ Bem vindo ao MP4 Downloader
 		print("\n\033[1;32mCanal: https://www.youtube.com/channel/UCYx02EM3e2h2Nbn2OwJ9voQ\033[0;0mm\n")
 
 main()
+
