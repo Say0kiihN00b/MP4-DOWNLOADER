@@ -27,6 +27,7 @@ Bem vindo ao MP4 Downloader
 		video.download()
 
 		print(f"\033[1;95mvideo \033[;1m{yt.title} \033[1;95mbaixado")
+		print(f"\033[1;95mQuantidade de views: \033[;1m{yt.views}")
 		pt = input("""
 \033[;1m1 \033[1;96mSair
 \033[;1m2 \033[1;96mVoltar ao menu
