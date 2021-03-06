@@ -17,7 +17,7 @@ Bem vindo ao MP4 Downloader
 		os.system('cls' if os.name == 'nt' else 'clear')
 		url = input("\033[1;32mDigite o link do video que deseja baixar:\033[1;34m ")
 
-		if 'https://www.youtube.com/' not in url:
+		if 'https://www.youtube.com/' not in url or 'https://youtu.be/' not in url:
 			print("\n\033[1;31mApenas links de videos do Youtube\n")
 			exit()
 
