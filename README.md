@@ -6,8 +6,8 @@
 
 ```
 apt install git -y
-git clone https://github.com/nearshelby-yt/MP4-Downloader
-cd MP4-Downloader
+git clone https://github.com/nearshelby-yt/MP4-DOWNLOADER
+cd MP4-DOWNLOADER
 sh requirements.sh
 python3 main.py
 ```
