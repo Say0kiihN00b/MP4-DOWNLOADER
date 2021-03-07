@@ -49,7 +49,7 @@ Bem vindo ao MP4 Downloader
 	if r == '3':
 		os.system("am start -a android.intent.action.VIEW https://www.youtube.com/channel/UCYx02EM3e2h2Nbn2OwJ9voQ")
 		os.system('cls' if os.name == 'nt' else 'clear')
-		print("\n\033[1;32mCanal: https://www.youtube.com/channel/UCYx02EM3e2h2Nbn2OwJ9voQ\033[0;0mm\n")
+		print("\n\033[1;32mCanal: https://www.youtube.com/channel/UCYx02EM3e2h2Nbn2OwJ9voQ\033[0;0m\n")
 
 main()
 
